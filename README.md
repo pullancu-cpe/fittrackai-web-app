@@ -17,7 +17,7 @@
 
 **Try the app:** [https://pullancu-cpe.github.io/fittrackai-web-app/]
 
-<img src="FitTrackAI%20App.jpg" width="200"/>
+<img src="FitTrackAI%20Web-App.jpg" width="200"/>
 
 ## 🛠️ Technologies
 - **Frontend** — HTML5, CSS3, JavaScript (Vanilla JS), Chart.js, PapaParse
