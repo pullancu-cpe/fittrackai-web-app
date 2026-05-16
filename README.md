@@ -15,7 +15,7 @@
 
 ## 🎯 Live Demo
 
-**Try the app:** [https://pullancu-dev.github.io/fittrackai-web-app]
+**Try the app:** [https://pullancu-cpe.github.io/fittrackai-web-app/]
 
 <img src="FitTrackAI%20App.jpg" width="200"/>
 
