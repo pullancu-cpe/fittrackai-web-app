@@ -20,7 +20,7 @@
 1. Scan the QR code or visit the link
 2. Enter your User ID to login
 3. View your health metrics and meal plan
-<img src="FitTrackAI%20Web-App.jpg" width="200"/>
+<img src="FitTrackAI Web-app QR.png" width="200"/>
 
 ## 🛠️ Technologies
 - **Frontend** — HTML5, CSS3, JavaScript (Vanilla JS), Chart.js, PapaParse
